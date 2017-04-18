@@ -1,8 +1,12 @@
 h1{
 	font-size: 60px;
-	color: red;
+	color: purple;
 }
 #first{
+	font-size: 48px;
+	color: purple;
+}
+#last{
 	font-size: 48px;
 	color: purple;
 }
